@@ -1,13 +1,12 @@
 #include "main.h"
 
-//Simple shell file
 
 /**
  *  * _memcpy - copies information between void pointers.
  *   * @newptr: destination pointer.
  *    * @ptr: source pointer.
  *     * @size: size of the new pointer.
- *      *
+ *      * space
  *       * Return: no return.
  *        */
 void _memcpy(void *newptr, const void *ptr, unsigned int size)

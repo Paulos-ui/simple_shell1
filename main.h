@@ -2,8 +2,6 @@
 #define _MAIN_
 
 
-// the code given out the listed libraries
-//
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

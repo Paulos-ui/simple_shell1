@@ -86,9 +86,9 @@ int error_sep_op(char *input, int i, char last)
 
 
 
-`/**
+/**
  * first_char - finds index of the first char
- *
+ * char 
  * @input: input string
  * @i: index
  * Return: 1 if there is an error. 0 in other case.
