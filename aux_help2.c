@@ -21,7 +21,7 @@ void aux_help(void)
  *  * aux_help_alias - Help information for the builtin alias.
  *   * Return: no return
  *   The outcome of the inpust file
- *  */
+ */ 
 void aux_help_alias(void)
 {
 		char *help = "alias: alias [-p] [name[=value]...]\n";
@@ -33,7 +33,7 @@ void aux_help_alias(void)
 /**
  *  * aux_help_cd - Help information for the builtin alias.
  *   * Return: no return
- *    */
+ */
 void aux_help_cd(void)
 {
 		char *help = "cd: cd [-L|[-P [-e]] [-@]] [dir]\n";
