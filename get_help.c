@@ -3,11 +3,8 @@
 /**
  * get_help - function that retrieves help messages according builtin
  * @datash: data structure (args and input)
- * Showing a code of help if needed ful or needed 
  * Return: Return 0
 */
-
-
 int get_help(data_shell *datash)
 {
 
